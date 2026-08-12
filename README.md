@@ -1,12 +1,51 @@
-# trackerbad
+# TBad App. 
+___
 
-A new Flutter project.
+## DESCRIPTION
 
-## Getting Started
+This project is Flutter application Tracker Session Badminton.
+___
 
-This project is a starting point for a Flutter application.
+## TECH STACK 
+- Flutter 
+___
 
-A few resources to get you started if this is your first Flutter project:
+## QUICK START 
+1. Clone the repository
+2. Install flutter 
+3. Run application on Linux: 
+
+```shell
+flutter run 
+``` 
+
+4. Select to Linux
+___
+
+## ARCHITECTURE 
+```shell
+tbad-app/
+	|--app 
+	|--
+
+
+```
+___
+
+
+## ENVIRONMENET VARIABLES 
+| Variable | Description |
+|---|---|
+| `PORT` | Backend port (default: 3000) |
+| `DB_URL` | Database connection string |
+
+___
+## CONTRIBUTING 
+
+Please read `CONTRIBUTING.md` for details on our code of conduct and the process for submitting pull requests.
+___
+
+## RESSOURCES  
 
 - [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
 - [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
@@ -15,3 +54,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## CONTACT
+ ![All information](email:devreal.pro@gmail.com)  
+___
+## LICENSE
+
+This project is licensed under the MIT License.   
+
+___

@@ -1,17 +1,67 @@
+# ---- Flutter ----
 flutter/ephemeral/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
 
-# Visual Studio user-specific files.
+# Build outputs
+build/
+flutter_assets/
+**/generated_plugin_registrant.dart
+
+# ---- Dart ----
+*.dart_tool/
+*.js
+*.js.map
+
+# ---- Android ----
+android/.gradle/
+android/local.properties
+android/app/build/
+android/**/captures/
+android/**/outputs/
+android/**/intermediates/
+
+# ---- iOS ----
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/engine/
+ios/Flutter/flutter_export_environment.sh
+ios/Runner/GeneratedPluginRegistrant.*
+
+# ---- Web ----
+web/.dart_tool/
+web/build/
+
+# ---- Visual Studio user-specific files.
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
 
-# Visual Studio build-related files.
+# ---- Visual Studio build-related files.
 x64/
 x86/
 
-# Visual Studio cache files
-# files ending in .cache can be ignored
+# ---- Visual Studio cache files
 *.[Cc]ache
-# but keep track of directories ending in .cache
 !*.[Cc]ache/
+
+# ---- IDE ----
+.vscode/
+.idea/
+*.iml
+
+# ---- System ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs ----
+*.log
+
+# ---- Env ----
+.env
+.env.*
