@@ -1,1 +1,0 @@
- /home/dev/workspace/appTrackerbad/trackerbad/build/744eeba7448facb603ac0c86b5f93238/dart_build_result.json:  /home/dev/snap/flutter/common/flutter/bin/cache/dart-sdk/version /home/dev/workspace/appTrackerbad/trackerbad/.dart_tool/package_config.json /home/dev/workspace/appTrackerbad/trackerbad/pubspec.yaml
